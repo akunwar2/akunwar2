@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
  🔭 I’m currently working on mastering this course.
  🌱 I’m currently learning java as always.
  👯 I’m looking to collaborate on our COMP 2711 course project.
